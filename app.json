@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MyApp",
-    "slug": "MyApp",
+    "name": "Qarz Daftari",
+    "slug": "qarz-daftari",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -16,7 +16,7 @@
       }
     },
     "android": {
-      "package": "com.myapp.app",
+      "package": "com.qarzdaftari.app",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
